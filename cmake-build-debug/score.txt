@@ -1,6 +1,0 @@
-Username: Demir
-Wins: 2 | Losses: 0 | Draws: 3 | Best Streak: 2 | Total Games: 2
------------------------------
-Username: demir
-Wins: 0 | Losses: 1 | Draws: 3 | Best Streak: 0 | Total Games: 1
------------------------------
